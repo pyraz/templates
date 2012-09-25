@@ -6,3 +6,6 @@ for some type of app.
 
 ## Sinatra
 - Twitter Bootstrap
+
+## Rails
+- Basic Multi-User System with Authentication
